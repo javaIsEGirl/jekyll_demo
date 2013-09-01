@@ -1,4 +1,5 @@
-baseurl: /jekyll_demo
+title: Michael Monteleone
+url: http://www.noif.tk
 description: 'Personal site of Michael Monteleone, software developer and designer from New Orleans'
 keywords:
  - Michael Monteleone
@@ -37,3 +38,13 @@ colors:
         red: '#FF007C'
     mono:
         dark: '#000000'
+        medium: '#777777'
+        light: '#FFFFFF'
+    bg: '#EAF1F4'
+    
+pygments: true
+permalink: pretty 
+exclude:
+ - Rakefile
+ - README.markdown
+ - .git
